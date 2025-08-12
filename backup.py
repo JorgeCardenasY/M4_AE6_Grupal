@@ -3,7 +3,7 @@ import datetime
 
 def backup():
     x = datetime.datetime.now()
-    x = x.strftime("%Y-%m-%d-%H:%M:%S")
+    x = x.strftime("%Y-%m-%d-%H%M%S")
     
     nombre_respaldo = f'inventario_bak_{x}.txt'
     os.system(f'cp inventario.txt inventario_bak_{x}.txt')
