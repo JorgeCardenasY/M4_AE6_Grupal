@@ -3,7 +3,7 @@
 > Actividad Realziada por:
 
 * Srta. Emily Quintana
-* Sr. Álvaro
+* Sr. Álvaro Ortega
 * Sr. Jorge Cárdenas
 
 ## Contexto
