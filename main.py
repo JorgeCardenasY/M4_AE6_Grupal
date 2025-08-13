@@ -4,8 +4,8 @@ import leer        #Emily
 import visualizar  #emily
 import modificar #jorge
 import backup    #jorge
-#import consultar #Álvaro
-#import eliminar  #Álvaro
+import consultar #Álvaro
+import eliminar  #Álvaro
 
 def menu_principal():
     while True:
